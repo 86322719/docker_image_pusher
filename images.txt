@@ -1,3 +1,5 @@
 adguard/adguardhome
 technitium/dns-server
 pihole/pihole
+irinesistiana/mosdns
+pymumu/smartdns
