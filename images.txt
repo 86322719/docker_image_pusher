@@ -3,3 +3,4 @@ technitium/dns-server
 pihole/pihole
 irinesistiana/mosdns
 pymumu/smartdns
+openlistteam/openlist:latest
